@@ -1,0 +1,363 @@
+1068312176,unexpected_content_type,application/json
+1068312230,unexpected_content_type,application/json
+1068506159,unexpected_content_type,application/json
+1068312200,unexpected_content_type,application/json
+1068508165,unexpected_content_type,application/json
+1068312199,unexpected_content_type,application/json
+1068312218,unexpected_content_type,application/json
+1068505211,unexpected_content_type,application/json
+1068312240,unexpected_content_type,application/json
+1068516091,unexpected_content_type,application/json
+1068507109,unexpected_content_type,application/json
+1068501170,unexpected_content_type,application/json
+1068509166,unexpected_content_type,application/json
+1069001172,unexpected_content_type,application/json
+1068703185,unexpected_content_type,application/json
+1068704132,unexpected_content_type,application/json
+1068512045,unexpected_content_type,application/json
+1068516142,unexpected_content_type,application/json
+1068705245,unexpected_content_type,application/json
+1068512001,unexpected_content_type,application/json
+1068516199,unexpected_content_type,application/json
+1069002039,unexpected_content_type,application/json
+1067710055,unexpected_content_type,application/json
+1069002081,unexpected_content_type,application/json
+1068701102,unexpected_content_type,application/json
+1068705195,unexpected_content_type,application/json
+1068707237,unexpected_content_type,application/json
+1068707029,unexpected_content_type,application/json
+1068708089,unexpected_content_type,application/json
+1068708203,unexpected_content_type,application/json
+1068714019,unexpected_content_type,application/json
+1068716161,unexpected_content_type,application/json
+1068710249,unexpected_content_type,application/json
+1068801038,unexpected_content_type,application/json
+1068710079,unexpected_content_type,application/json
+1068714020,unexpected_content_type,application/json
+1069003101,unexpected_content_type,application/json
+1068802222,unexpected_content_type,application/json
+1069003245,unexpected_content_type,application/json
+1068803213,unexpected_content_type,application/json
+1068714181,unexpected_content_type,application/json
+1068714242,unexpected_content_type,application/json
+1069003091,unexpected_content_type,application/json
+1068803109,unexpected_content_type,application/json
+1069004042,unexpected_content_type,application/json
+1068801010,unexpected_content_type,application/json
+1068808172,unexpected_content_type,application/json
+1068803103,unexpected_content_type,application/json
+1068801045,unexpected_content_type,application/json
+1068806102,unexpected_content_type,application/json
+1068808168,unexpected_content_type,application/json
+1068812072,unexpected_content_type,application/json
+1069005027,unexpected_content_type,application/json
+1068805102,unexpected_content_type,application/json
+1069004148,unexpected_content_type,application/json
+1068809122,unexpected_content_type,application/json
+1068809236,unexpected_content_type,application/json
+1068816013,unexpected_content_type,application/json
+1068815092,unexpected_content_type,application/json
+1068809091,unexpected_content_type,application/json
+1068806177,unexpected_content_type,application/json
+1069005076,unexpected_content_type,application/json
+1068901055,unexpected_content_type,application/json
+1068713007,unexpected_content_type,application/json
+1068815117,unexpected_content_type,application/json
+1068901169,unexpected_content_type,application/json
+1068816174,unexpected_content_type,application/json
+1068901044,unexpected_content_type,application/json
+1068901173,unexpected_content_type,application/json
+1068901005,unexpected_content_type,application/json
+1068901016,unexpected_content_type,application/json
+1068902102,unexpected_content_type,application/json
+1068901050,unexpected_content_type,application/json
+1068901067,unexpected_content_type,application/json
+1068902152,unexpected_content_type,application/json
+1069006082,unexpected_content_type,application/json
+1068902167,unexpected_content_type,application/json
+1068901170,unexpected_content_type,application/json
+1068902133,unexpected_content_type,application/json
+1068901211,unexpected_content_type,application/json
+1068901239,unexpected_content_type,application/json
+1068907140,unexpected_content_type,application/json
+1068902091,unexpected_content_type,application/json
+1068810142,unexpected_content_type,application/json
+1068907193,unexpected_content_type,application/json
+1068902059,unexpected_content_type,application/json
+1069001042,unexpected_content_type,application/json
+1069001072,unexpected_content_type,application/json
+1069001085,unexpected_content_type,application/json
+1069006227,unexpected_content_type,application/json
+1068907072,unexpected_content_type,application/json
+1068907058,unexpected_content_type,application/json
+1068907213,unexpected_content_type,application/json
+1069001036,unexpected_content_type,application/json
+1069001013,unexpected_content_type,application/json
+1069001112,unexpected_content_type,application/json
+1069006181,unexpected_content_type,application/json
+1069007013,unexpected_content_type,application/json
+1069001150,unexpected_content_type,application/json
+1068902197,unexpected_content_type,application/json
+1069001148,unexpected_content_type,application/json
+1069001171,unexpected_content_type,application/json
+1069001008,unexpected_content_type,application/json
+1069001119,unexpected_content_type,application/json
+1069006185,unexpected_content_type,application/json
+1069001180,unexpected_content_type,application/json
+1069002042,unexpected_content_type,application/json
+1069001193,unexpected_content_type,application/json
+1069002089,unexpected_content_type,application/json
+1069007019,unexpected_content_type,application/json
+1069002020,unexpected_content_type,application/json
+1069007196,unexpected_content_type,application/json
+1069002058,unexpected_content_type,application/json
+1069001184,unexpected_content_type,application/json
+1069001250,unexpected_content_type,application/json
+1069007101,unexpected_content_type,application/json
+1069002119,unexpected_content_type,application/json
+1069007238,unexpected_content_type,application/json
+1069002182,unexpected_content_type,application/json
+1069002203,unexpected_content_type,application/json
+1069002144,unexpected_content_type,application/json
+1069002205,unexpected_content_type,application/json
+1069002239,unexpected_content_type,application/json
+1069002130,unexpected_content_type,application/json
+1069007179,unexpected_content_type,application/json
+1069007085,unexpected_content_type,application/json
+1069003025,unexpected_content_type,application/json
+1069002009,unexpected_content_type,application/json
+1069008188,unexpected_content_type,application/json
+1069003018,unexpected_content_type,application/json
+1069002084,unexpected_content_type,application/json
+1069003048,unexpected_content_type,application/json
+1069003082,unexpected_content_type,application/json
+1069003085,unexpected_content_type,application/json
+1069003012,unexpected_content_type,application/json
+1069002211,unexpected_content_type,application/json
+1069010006,unexpected_content_type,application/json
+1069003070,unexpected_content_type,application/json
+1069003127,unexpected_content_type,application/json
+1069003166,unexpected_content_type,application/json
+1069009142,unexpected_content_type,application/json
+1069003112,unexpected_content_type,application/json
+1069003244,unexpected_content_type,application/json
+1069003239,unexpected_content_type,application/json
+1069003144,unexpected_content_type,application/json
+1069010007,unexpected_content_type,application/json
+1069004021,unexpected_content_type,application/json
+1069004035,unexpected_content_type,application/json
+1069004121,unexpected_content_type,application/json
+1069004147,unexpected_content_type,application/json
+1069002117,unexpected_content_type,application/json
+1069004032,unexpected_content_type,application/json
+1069005012,unexpected_content_type,application/json
+1069004175,unexpected_content_type,application/json
+1069004088,unexpected_content_type,application/json
+1069005036,unexpected_content_type,application/json
+1069005038,unexpected_content_type,application/json
+1069010225,unexpected_content_type,application/json
+1069004157,unexpected_content_type,application/json
+1069005057,unexpected_content_type,application/json
+1069011038,unexpected_content_type,application/json
+1069005017,unexpected_content_type,application/json
+1069005060,unexpected_content_type,application/json
+1069004136,unexpected_content_type,application/json
+1069005092,unexpected_content_type,application/json
+1069005073,unexpected_content_type,application/json
+1069004228,unexpected_content_type,application/json
+1071005045,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005045 (Caused by ResponseError('too many 502 error responses'))
+1071005055,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005055 (Caused by ResponseError('too many 502 error responses'))
+1071005046,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005046 (Caused by ResponseError('too many 502 error responses'))
+1071005059,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005059 (Caused by ResponseError('too many 502 error responses'))
+1071005074,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005074 (Caused by ResponseError('too many 502 error responses'))
+1071005078,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005078 (Caused by ResponseError('too many 502 error responses'))
+1071005079,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005079 (Caused by ResponseError('too many 502 error responses'))
+1071005064,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005064 (Caused by ResponseError('too many 502 error responses'))
+1071005082,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005082 (Caused by ResponseError('too many 502 error responses'))
+1071005093,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005093 (Caused by ResponseError('too many 502 error responses'))
+1071005117,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005117 (Caused by ResponseError('too many 502 error responses'))
+1071005118,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005118 (Caused by ResponseError('too many 502 error responses'))
+1071005099,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005099 (Caused by ResponseError('too many 502 error responses'))
+1071005123,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005123 (Caused by ResponseError('too many 502 error responses'))
+1071005124,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005124 (Caused by ResponseError('too many 502 error responses'))
+1071005141,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005141 (Caused by ResponseError('too many 502 error responses'))
+1071005130,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005130 (Caused by ResponseError('too many 502 error responses'))
+1071005156,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005156 (Caused by ResponseError('too many 502 error responses'))
+1071005150,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005150 (Caused by ResponseError('too many 502 error responses'))
+1071005149,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005149 (Caused by ResponseError('too many 502 error responses'))
+1071005126,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005126 (Caused by ResponseError('too many 502 error responses'))
+1071005160,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005160 (Caused by ResponseError('too many 502 error responses'))
+1071005163,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005163 (Caused by ResponseError('too many 502 error responses'))
+1071005182,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005182 (Caused by ResponseError('too many 502 error responses'))
+1071005191,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005191 (Caused by ResponseError('too many 502 error responses'))
+1071005211,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005211 (Caused by ResponseError('too many 502 error responses'))
+1071005209,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005209 (Caused by ResponseError('too many 502 error responses'))
+1071005213,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005213 (Caused by ResponseError('too many 502 error responses'))
+1071005215,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005215 (Caused by ResponseError('too many 502 error responses'))
+1071005237,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005237 (Caused by ResponseError('too many 502 error responses'))
+1071005240,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005240 (Caused by ResponseError('too many 502 error responses'))
+1071006040,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006040 (Caused by ResponseError('too many 502 error responses'))
+1071005245,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071005245 (Caused by ResponseError('too many 502 error responses'))
+1071006014,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006014 (Caused by ResponseError('too many 502 error responses'))
+1071006068,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006068 (Caused by ResponseError('too many 502 error responses'))
+1071006010,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006010 (Caused by ResponseError('too many 502 error responses'))
+1071006065,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006065 (Caused by ResponseError('too many 502 error responses'))
+1071006059,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006059 (Caused by ResponseError('too many 502 error responses'))
+1071006076,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006076 (Caused by ResponseError('too many 502 error responses'))
+1071006080,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006080 (Caused by ResponseError('too many 502 error responses'))
+1071006077,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006077 (Caused by ResponseError('too many 502 error responses'))
+1071006081,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006081 (Caused by ResponseError('too many 502 error responses'))
+1071006153,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006153 (Caused by ResponseError('too many 502 error responses'))
+1071006072,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006072 (Caused by ResponseError('too many 502 error responses'))
+1071006162,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006162 (Caused by ResponseError('too many 502 error responses'))
+1071006158,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006158 (Caused by ResponseError('too many 502 error responses'))
+1071006148,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006148 (Caused by ResponseError('too many 502 error responses'))
+1071006178,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006178 (Caused by ResponseError('too many 502 error responses'))
+1071006171,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006171 (Caused by ResponseError('too many 502 error responses'))
+1071006184,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006184 (Caused by ResponseError('too many 502 error responses'))
+1071006186,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006186 (Caused by ResponseError('too many 502 error responses'))
+1071006165,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006165 (Caused by ResponseError('too many 502 error responses'))
+1071006131,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006131 (Caused by ResponseError('too many 502 error responses'))
+1071006188,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006188 (Caused by ResponseError('too many 502 error responses'))
+1071006237,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006237 (Caused by ResponseError('too many 502 error responses'))
+1071007013,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007013 (Caused by ResponseError('too many 502 error responses'))
+1071007007,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007007 (Caused by ResponseError('too many 502 error responses'))
+1071007029,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007029 (Caused by ResponseError('too many 502 error responses'))
+1071007027,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007027 (Caused by ResponseError('too many 502 error responses'))
+1071007058,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007058 (Caused by ResponseError('too many 502 error responses'))
+1071007041,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007041 (Caused by ResponseError('too many 502 error responses'))
+1071006236,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006236 (Caused by ResponseError('too many 502 error responses'))
+1071006243,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071006243 (Caused by ResponseError('too many 502 error responses'))
+1071007070,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007070 (Caused by ResponseError('too many 502 error responses'))
+1071007080,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007080 (Caused by ResponseError('too many 502 error responses'))
+1071007074,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007074 (Caused by ResponseError('too many 502 error responses'))
+1071007092,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007092 (Caused by ResponseError('too many 502 error responses'))
+1071007087,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007087 (Caused by ResponseError('too many 502 error responses'))
+1071007098,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007098 (Caused by ResponseError('too many 502 error responses'))
+1071007101,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007101 (Caused by ResponseError('too many 502 error responses'))
+1071007128,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007128 (Caused by ResponseError('too many 502 error responses'))
+1071007110,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007110 (Caused by ResponseError('too many 502 error responses'))
+1071007116,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007116 (Caused by ResponseError('too many 502 error responses'))
+1071007138,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007138 (Caused by ResponseError('too many 502 error responses'))
+1071007135,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007135 (Caused by ResponseError('too many 502 error responses'))
+1071007151,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007151 (Caused by ResponseError('too many 502 error responses'))
+1071007169,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007169 (Caused by ResponseError('too many 502 error responses'))
+1071007177,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007177 (Caused by ResponseError('too many 502 error responses'))
+1071007179,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007179 (Caused by ResponseError('too many 502 error responses'))
+1071007197,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007197 (Caused by ResponseError('too many 502 error responses'))
+1071007193,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007193 (Caused by ResponseError('too many 502 error responses'))
+1071007174,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007174 (Caused by ResponseError('too many 502 error responses'))
+1071007192,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007192 (Caused by ResponseError('too many 502 error responses'))
+1071007212,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007212 (Caused by ResponseError('too many 502 error responses'))
+1071007208,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007208 (Caused by ResponseError('too many 502 error responses'))
+1071007216,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007216 (Caused by ResponseError('too many 502 error responses'))
+1071007219,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007219 (Caused by ResponseError('too many 502 error responses'))
+1071007230,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007230 (Caused by ResponseError('too many 502 error responses'))
+1071007233,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007233 (Caused by ResponseError('too many 502 error responses'))
+1071007232,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007232 (Caused by ResponseError('too many 502 error responses'))
+1071007240,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007240 (Caused by ResponseError('too many 502 error responses'))
+1071007247,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007247 (Caused by ResponseError('too many 502 error responses'))
+1071007244,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071007244 (Caused by ResponseError('too many 502 error responses'))
+1071008012,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008012 (Caused by ResponseError('too many 502 error responses'))
+1071008010,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008010 (Caused by ResponseError('too many 502 error responses'))
+1071008028,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008028 (Caused by ResponseError('too many 502 error responses'))
+1071008039,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008039 (Caused by ResponseError('too many 502 error responses'))
+1071008042,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008042 (Caused by ResponseError('too many 502 error responses'))
+1071008058,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008058 (Caused by ResponseError('too many 502 error responses'))
+1071008073,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008073 (Caused by ResponseError('too many 502 error responses'))
+1071008093,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008093 (Caused by ResponseError('too many 502 error responses'))
+1071008097,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008097 (Caused by ResponseError('too many 502 error responses'))
+1071008076,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008076 (Caused by ResponseError('too many 502 error responses'))
+1071008128,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008128 (Caused by ResponseError('too many 502 error responses'))
+1071008133,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008133 (Caused by ResponseError('too many 502 error responses'))
+1071008162,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008162 (Caused by ResponseError('too many 502 error responses'))
+1071008173,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008173 (Caused by ResponseError('too many 502 error responses'))
+1071008135,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008135 (Caused by ResponseError('too many 502 error responses'))
+1071008217,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008217 (Caused by ResponseError('too many 502 error responses'))
+1071008202,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008202 (Caused by ResponseError('too many 502 error responses'))
+1071008188,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008188 (Caused by ResponseError('too many 502 error responses'))
+1071008232,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008232 (Caused by ResponseError('too many 502 error responses'))
+1071008183,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071008183 (Caused by ResponseError('too many 502 error responses'))
+1071009006,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009006 (Caused by ResponseError('too many 502 error responses'))
+1071009015,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009015 (Caused by ResponseError('too many 502 error responses'))
+1071009016,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009016 (Caused by ResponseError('too many 502 error responses'))
+1071009009,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009009 (Caused by ResponseError('too many 502 error responses'))
+1071009018,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009018 (Caused by ResponseError('too many 502 error responses'))
+1071009020,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009020 (Caused by ResponseError('too many 502 error responses'))
+1071009029,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009029 (Caused by ResponseError('too many 502 error responses'))
+1071009043,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009043 (Caused by ResponseError('too many 502 error responses'))
+1071009027,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009027 (Caused by ResponseError('too many 502 error responses'))
+1071009024,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009024 (Caused by ResponseError('too many 502 error responses'))
+1071009057,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009057 (Caused by ResponseError('too many 502 error responses'))
+1071009071,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009071 (Caused by ResponseError('too many 502 error responses'))
+1071009062,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009062 (Caused by ResponseError('too many 502 error responses'))
+1071009067,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009067 (Caused by ResponseError('too many 502 error responses'))
+1071009073,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009073 (Caused by ResponseError('too many 502 error responses'))
+1071009087,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009087 (Caused by ResponseError('too many 502 error responses'))
+1071009090,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009090 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009089,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009089 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009091,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009091 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009099,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009099 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009122,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009122 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009137,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009137 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009104,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009104 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009153,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009153 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009154,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009154 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009156,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009156 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009157,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009157 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009164,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009164 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009166,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009166 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009165,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009165 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009167,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009167 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009169,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009169 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009174,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009174 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009173,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009173 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009178,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009178 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009181,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009181 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009207,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009207 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009223,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009223 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009247,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009247 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010003,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010003 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071009237,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071009237 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010018,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010018 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010019,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010019 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010021,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010021 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010027,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010027 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010046,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010046 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010030,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010030 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010070,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010070 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010080,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010080 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010078,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010078 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010093,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010093 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010085,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010085 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010140,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010140 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010095,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010095 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010159,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010159 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010096,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010096 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010155,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010155 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010202,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010202 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010158,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010158 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010250,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010250 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071010234,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071010234 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011030,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011030 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011056,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011056 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011038,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011038 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011087,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011087 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011077,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011077 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011017,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011017 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011067,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011067 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011088,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011088 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011094,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011094 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011093,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011093 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011098,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011098 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011109,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011109 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011113,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011113 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011120,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011120 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011138,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011138 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011231,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011231 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011211,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011211 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071011238,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071011238 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071012007,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071012007 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071012010,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071012010 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071012015,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071012015 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
+1071012039,request_error,HTTPSConnectionPool(host='www.lamost.org'; port=443): Max retries exceeded with url: /openapi/dr11/v2.0/lrs/spectrum/fits?obsid=1071012039 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.lamost.org'; port=443): Read timed out. (read timeout=15)"))
