@@ -18,7 +18,7 @@ import warnings
 from astropy.io.fits.verify import VerifyWarning
 import ezpadova
 
-plt.style.use('seaborn-v0_8-darkgrid')
+plt.style.use('dark_background')
 
 
 warnings.simplefilter('ignore', category=VerifyWarning)
@@ -46,9 +46,15 @@ narrow_line_coords=SkyCoord(ra=narrowline_ra_data*u.deg,dec=narrowline_dec_data*
 
 max_sep=2*u.arcsec
 
-narrowline=[]
-broadline=[]
+herbig_sample_file=pd.read_csv(r"E:\Python Works\University\Research\Data\Actual\bin\bin_ir_excess\CONFIRMED_HAEBE_width_enough - Copy.csv")
+ra_data_herbig_broadline=herbig_sample_file["ra"].to_numpy().flatten()
+dec_data_herbig_broadline=herbig_sample_file["dec"].to_numpy().flatten()
+herbig_broadline_coords=SkyCoord(ra=ra_data_herbig_broadline*u.deg,dec=dec_data_herbig_broadline*u.deg,frame="icrs")
 
+herbig_sample_file_narrowline=pd.read_csv(r"E:\Python Works\University\Research\Data\Actual\bin\bin_ir_excess\CONFIRMED_HAEBE_width_not_enough - Copy.csv")
+ra_data_herbig_narrowline=herbig_sample_file_narrowline["ra"].to_numpy().flatten()
+dec_data_herbig_narrowline=herbig_sample_file_narrowline["dec"].to_numpy().flatten()
+herbig_narrowline_coords=SkyCoord(ra=ra_data_herbig_narrowline*u.deg,dec=dec_data_herbig_narrowline*u.deg,frame="icrs")
 
 
 def gaia_xmatch_for_source(coordinates_of_source):
@@ -140,6 +146,43 @@ with ThreadPoolExecutor(max_workers=maxworker) as executor:
 x_broadline=np.array(broadline_x)
 y_broadline=np.array(broadline_y)
 
+
+herbig_broadline_x=[]
+herbig_broadline_y=[]
+
+
+with ThreadPoolExecutor(max_workers=maxworker) as executor:
+  future_to_coord={executor.submit(extinction_corrector, coord): coord for coord in herbig_broadline_coords}
+
+  for future in tqdm.tqdm(as_completed(future_to_coord),total=len(future_to_coord),desc="Processing Gaia X-match Broad-Match for Herbig Sample"):
+    result=future.result()
+
+    if result is not None:
+      m_rp_0,bp_rp_0=result
+      herbig_broadline_x.append(bp_rp_0) 
+      herbig_broadline_y.append(m_rp_0)
+
+herbig_broadline_x=np.array(herbig_broadline_x)
+herbig_broadline_y=np.array(herbig_broadline_y)
+
+herbig_narrowline_x=[]
+herbig_narrowline_y=[]
+
+with ThreadPoolExecutor(max_workers=maxworker) as executor:
+    future_to_coord={executor.submit(extinction_corrector, coord): coord for coord in herbig_narrowline_coords}
+    
+    for future in tqdm.tqdm(as_completed(future_to_coord),total=len(future_to_coord),desc="Processing Gaia X-match Narrow-Match for Herbig Sample"):
+        result=future.result()
+    
+        if result is not None:
+            m_rp_0,bp_rp_0=result
+            herbig_narrowline_x.append(bp_rp_0) 
+            herbig_narrowline_y.append(m_rp_0)
+
+herbig_narrowline_x=np.array(herbig_narrowline_x)
+herbig_narrowline_y=np.array(herbig_narrowline_y)
+
+
 iso=ezpadova.parsec.get_isochrones(logage=(7.0, 7.0, 1.0),MH=(0.0, 0.0, 0.1),photsys_file='gaiaEDR3')
 iso_bp=iso['G_BPmag']
 iso_rp=iso['G_RPmag']
@@ -148,17 +191,19 @@ iso_m_rp=iso['G_RPmag']
 
 
 plt.figure(figsize=(10,6))
-plt.scatter(x_broadline,y_broadline,marker="*",label="Broad - Line",color="red",s=30)
-plt.scatter(x_narrowline,y_narrowline,marker="o",label="Narrow - Line",color="yellow",s=20)
+plt.scatter(x_broadline,y_broadline,marker="*",label="Broad - Line",color="#00FF85",s=30)
+plt.scatter(x_narrowline,y_narrowline,marker="o",label="Narrow - Line",color="#1E90FF",s=20)
+plt.scatter(herbig_broadline_x,herbig_broadline_y,marker="s",label="Potential Herbig - BroadLine",color="#FFB74D",s=30)
+plt.scatter(herbig_narrowline_x,herbig_narrowline_y,marker="p",label="Potential Herbig - NarrowLine",color="#E57373",s=20)
 sort_idx = np.argsort(iso['Mini'])
-plt.plot(iso_color[sort_idx],iso_m_rp[sort_idx],color='black',linewidth=1,label='10 Myr Isochrone',alpha=0.8,linestyle='--')
+plt.plot(iso_color[sort_idx],iso_m_rp[sort_idx],color='white',linewidth=1,label='10 Myr Isochrone',alpha=0.8,linestyle='--')
 plt.grid(True,alpha=0.2,linestyle=":")
 plt.gca().invert_yaxis()
 plt.xlabel(r"$(BP - RP)_0$")
 plt.ylabel(r"$M_{RP,0}$")
 plt.title("Extinction Corrected Color-Magnitude Diagram")
 plt.legend()
-plt.savefig(r"Extinction_Corrected_CMD.svg",format="svg",bbox_inches="tight")
+plt.savefig(r"Extinction_Corrected_CMD.svg",format="svg")
 plt.close()
 
 for i in range(3):
