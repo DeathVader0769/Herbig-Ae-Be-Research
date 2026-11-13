@@ -1,5 +1,4 @@
 import time
-start_time=time.perf_counter()
 from pathlib import Path
 import requests
 import tqdm
@@ -25,6 +24,8 @@ import astropy.units as u
 import warnings
 import csv
 
+start_time=time.perf_counter()
+
 plt.style.use('dark_background')
 
 Fitzpatrick_model=F99(Rv=3.1)
@@ -46,6 +47,8 @@ retry=Retry(total=2,backoff_factor=0.5,status_forcelist=[429,500,502,503,504],al
 session.mount("https://",HTTPAdapter(max_retries=retry,pool_connections=maxworker,pool_maxsize=maxworker))
 session.mount("http://",HTTPAdapter(max_retries=retry,pool_connections=maxworker,pool_maxsize=maxworker))
 
+print("Strategy Formed")
+
 MIN_REQUEST_INTERVAL=0.005  # ~10 req/s ceiling across all 20 workers combined
 rate_lock=threading.Lock()
 _last_request_time=[0.0]
@@ -57,38 +60,6 @@ def rate_limit():
         if wait > 0:
             time.sleep(wait)
         _last_request_time[0] = time.monotonic()
-
-
-
-def estimate_spectral_type(spectrum, wavelength, l_classifier_corrected):
-    CLASSIFIER_HALFWIDTH = [4.0, 4.0, 6.0, 6.0, 4.0, 6.0]
-    THRESH = {"heII": 0.05, "heI": 0.05, "balmer": 0.25, "caK": 0.15, "G": 0.10}
-    depths = []
-    for center, hw in zip(l_classifier_corrected, CLASSIFIER_HALFWIDTH):
-        window = np.abs(wavelength - center) <= hw
-        if window.sum() < 2:
-            depths.append(np.nan)          # line outside coverage
-        else:
-            depths.append(1.0 - np.nanmedian(spectrum[window]))
-
-    if np.any(np.isnan(depths)):
-        return "Unclassified", depths
-
-    heII, heI, hd, hg, caK, g = depths
-    balmer = (hd + hg) / 2
-
-    if heII > THRESH["heII"]:
-        stype = "O"
-    elif heI > THRESH["heI"]:
-        stype = "B"
-    elif balmer > THRESH["balmer"] and caK < THRESH["caK"] and g < THRESH["G"]:
-        stype = "A"
-    elif caK >= THRESH["caK"] or g >= THRESH["G"]:
-        stype = "Late"
-    else:
-        stype = "Uncertain"
-    return stype, depths
-
 
 
 def get_spectrum(id_obs):
@@ -145,7 +116,7 @@ def process_spectrum(spectrum,wavelength,radv):
             peak_wavelengths=peak_wavelengths[:,np.newaxis]
             forbidden_wavelengths,doppler_corrected_halpha,classifier_wavelengths=doppler_shift_adjuster(radv)
 
-            spectral_type,depths_list=estimate_spectral_type(spectrum,wavelength,classifier_wavelengths)
+        
 
             forbidden_wavelengths_h_alpha=np.array([doppler_corrected_halpha]+list(forbidden_wavelengths))
             diff_matrix=np.abs(peak_wavelengths-forbidden_wavelengths_h_alpha)
@@ -158,8 +129,7 @@ def process_spectrum(spectrum,wavelength,radv):
             OI_match_upper=diff_matrix[:,-1]<=20
             OI_match_lower=diff_matrix[:,-2]<=20
 
-            if spectral_type not in ["O","B","A","Uncertain"]:
-                return None,None,None,None,None,None,None,spectral_type,depths_list
+    
 
             
             if np.any(halpha_match):
@@ -178,24 +148,24 @@ def process_spectrum(spectrum,wavelength,radv):
                 #print("Found") #comment this
 
                 if np.any(forbidden_match):
-                    return True,True,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,"Worked",spectral_type,depths_list #uncomment
+                    return True,True,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,"Worked" #uncomment
                 else:
-                    return True,False,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,"Worked",spectral_type,depths_list #uncomment
+                    return True,False,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,"Worked" #uncomment
 
             
             elif np.any(OI_match_lower) or np.any(OI_match_upper):
-                return False,True,None,None,None,None,"OI Detected",spectral_type,depths_list
+                return False,True,None,None,None,None,"OI Detected"
             elif np.any(forbidden_match):
                 #print("Forbidden line detected") #comment
-                return False,True,None,None,None,None,"Worked",spectral_type,depths_list
+                return False,True,None,None,None,None,"Worked"
             else:
                 #print("No halpha") #comment
-                return False,None,None,None,None,None,"No halpha/no peaks deteced",spectral_type,depths_list #uncomment
+                return False,None,None,None,None,None,"No halpha/no peaks deteced" #uncomment
  
         except Exception as e:
-            return None,None,None,None,None,None,str(e),"Unclassified",[np.nan]*6
+            return None,None,None,None,None,None,str(e),"Unclassified",[np.nan]*4
     else:
-        return None,None,None,None,None,None,"Spectrum Invalid","Unclassified",[np.nan]*6
+        return None,None,None,None,None,None,"Spectrum Invalid","Unclassified",[np.nan]*4
 
 def extinction_corrector(j,h,k,a0,bp_mag,rp_mag,parallax):
 
@@ -239,7 +209,7 @@ def main(obsid,coordinates,twomass_photometric_data,radial_vel,sptype,A0,bp,rp,p
         l2=[obsid,None,None,None,None,None,None,None,None,None,None,"Download Failed",None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None]
         return l2
 
-    halpha,forbidden,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,code_processor,resptype,dep=process_spectrum(spectrum=spectra,wavelength=lambdas,radv=radial_vel)
+    halpha,forbidden,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,code_processor=process_spectrum(spectrum=spectra,wavelength=lambdas,radv=radial_vel)
     twomassj=twomass_photometric_data[0]
     twomassh=twomass_photometric_data[1]
     twomassk=twomass_photometric_data[2]
@@ -251,13 +221,13 @@ def main(obsid,coordinates,twomass_photometric_data,radial_vel,sptype,A0,bp,rp,p
         if flux_jhk is None:
             flux_jhk=[None,None,None]
 
-        l=[obsid,coordinates.ra.deg,coordinates.dec.deg,sptype,resptype,dep[0],dep[1],dep[2],dep[3],dep[4],dep[5],status_code,twomassj,twomassh,twomassk,ej,eh,ek,flux_jhk[0],flux_jhk[1],flux_jhk[2],halpha,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,forbidden,code_processor,gaia_parallax,gaia_A0,calc_AV,AJ_AV_,AH_AV_,AK_AV_,gaia_bp,gaia_rp,ebp,erp,hk_extinction_correction,hk_0,potential_herbig]
+        l=[obsid,coordinates.ra.deg,coordinates.dec.deg,sptype,status_code,twomassj,twomassh,twomassk,ej,eh,ek,flux_jhk[0],flux_jhk[1],flux_jhk[2],halpha,halpha_peak_wavelength,fwhm_angstrom,peak_width_pixels,halpha_prominence,forbidden,code_processor,gaia_parallax,gaia_A0,calc_AV,AJ_AV_,AH_AV_,AK_AV_,gaia_bp,gaia_rp,ebp,erp,hk_extinction_correction,hk_0,potential_herbig]
         return l
     else:
         return None
 
 
-lamost_file=pd.read_csv(r"E:\Python Works\University\Research\Data\Actual\ver 2\20260924185822.csv")
+lamost_file=pd.read_csv(r"E:\Python Works\University\Oe Stars Research\Downloaded_Data\Full_DR_11_v1.1.csv")
 lamost_obsids=((lamost_file["obsid"]).to_numpy()).flatten()
 lamost_ra_data=((lamost_file["ra"]).to_numpy()).flatten()
 lamost_dec_data=((lamost_file["dec"]).to_numpy()).flatten()
@@ -265,8 +235,10 @@ lamost_rv_data=(lamost_file["rv"].to_numpy()).flatten()
 lamost_sp_type=(lamost_file["subclass"].to_numpy()).flatten()
 lamost_coordinates=SkyCoord(ra=lamost_ra_data*u.deg,dec=lamost_dec_data*u.deg,frame="icrs")
 
+print("LAMOST Processed")
 
-twomass_file=pd.read_csv(r"E:\Python Works\University\Research\Data\Actual\ver 2\2mass_xmatch_full.csv")
+
+twomass_file=pd.read_csv(r"E:\Python Works\University\Oe Stars Research\Downloaded_Data\2mass_reduced_columns.csv")
 twomass_ra_data=((twomass_file["ra"]).to_numpy()).flatten()
 twomass_dec_data=((twomass_file["dec"]).to_numpy()).flatten()
 twomass_j_data=((twomass_file["Jmag"]).to_numpy()).flatten()
@@ -280,7 +252,10 @@ twomass_coordinates=SkyCoord(ra=twomass_ra_data*u.deg,dec=twomass_dec_data*u.deg
 idx,d2d,_=lamost_coordinates.match_to_catalog_sky(twomass_coordinates)
 
 
-gaia_file=pd.read_csv(r"E:\Python Works\University\Research\Data\Actual\ver 2\gaia_xmatch_full_csv.csv")
+print("2mass Processed")
+
+
+gaia_file=pd.read_csv(r"E:\Python Works\University\Oe Stars Research\Downloaded_Data\gaia_dr11_reduced_columns.csv")
 gaia_ra_data=gaia_file["ra"].to_numpy().flatten()
 gaia_dec_data=gaia_file["dec"].to_numpy().flatten()
 gaia_bp_data=gaia_file["BPmag"].to_numpy().flatten()
@@ -289,20 +264,22 @@ gaia_A0_data=gaia_file["A0"].to_numpy().flatten()
 gaia_ebp_data=gaia_file["e_BPmag"].to_numpy().flatten()
 gaia_erp_data=gaia_file["e_RPmag"].to_numpy().flatten()
 gaia_parallax_data=gaia_file["Plx"].to_numpy().flatten()
-gaia_rv_data=gaia_file["RV"].to_numpy().flatten()
+gaia_rv_data=gaia_file["rv"].to_numpy().flatten()
 gaia_coordinates=SkyCoord(ra=gaia_ra_data*u.deg,dec=gaia_dec_data*u.deg,frame="icrs")
 
 idx_gaia,d2d_gaia,_=lamost_coordinates.match_to_catalog_sky(gaia_coordinates)
 
+print("Gaia Processed")
 
-headers=["lamost_obsid","RA","DEC","LAMOST Spectral Type","Re-estimated Spectral Type","He II","He I","Hdelta","Hgamma","Ca II K","Ca II G","Download Spectra Code","Jmag","Hmag","Kmag","e_Jmag","e_Hmag","e_Kmag","JFlux","HFlux","KFlux","Halpha","Halpha Peak Wavelength","FWHM","Peak Width","Prominence","Forbidden Line","Code Processor","Parallax","A0","AV","AJ_AV","AH_AV","AK_AV","BP","RP","e_BPmag","e_RPmag","E(H-K)","(H-K)_0","Verdict on Herbig","error_message"]
+
+headers=["lamost_obsid","RA","DEC","LAMOST Spectral Type","Download Spectra Code","Jmag","Hmag","Kmag","e_Jmag","e_Hmag","e_Kmag","JFlux","HFlux","KFlux","Halpha","Halpha Peak Wavelength","FWHM","Peak Width","Prominence","Forbidden Line","Code Processor","Parallax","A0","AV","AJ_AV","AH_AV","AK_AV","BP","RP","e_BPmag","e_RPmag","E(H-K)","(H-K)_0","Verdict on Herbig","error_message"]
 
 with open(bin_file,"a",newline="") as temp:
     writer=csv.writer(temp)
     writer.writerow(headers)
 
 print("Just before")
-l1=[100000*x for x in range(25)]
+l1=[100000*x for x in range(119)]
 
 with ThreadPoolExecutor(max_workers=maxworker) as executor:
     futures=[]
@@ -321,8 +298,7 @@ with ThreadPoolExecutor(max_workers=maxworker) as executor:
                 else:
                     rv=0        
             if c in l1:
-                print("hmm")
-                                                           
+                print("hmm")                                       
             futures.append(executor.submit(main,ebp=gaia_ebp_data[idx_gaia[c]],erp=gaia_erp_data[idx_gaia[c]],ej=twomass_ej_data[idx[c]],eh=twomass_eh_data[idx[c]],ek=twomass_ek_data[idx[c]],coordinates=lamost_coordinates[c],obsid=obs,twomass_photometric_data=photomet_data,radial_vel=rv,sptype=lamost_sp_type[c],bp=gaia_bp_data[idx_gaia[c]],rp=gaia_rp_data[idx_gaia[c]],plx=gaia_parallax_data[idx_gaia[c]],A0=gaia_A0_data[idx_gaia[c]]))
         else:
             continue
